@@ -41,13 +41,13 @@ if(gameKind === "court"){
 		      "minecart_furnace.webp", "ore_diamond_deepslate.png", "quartz_ore.png", "sculk.gif", "Vegan + sans gluten (pain, gateaux... interdits)",
 		      "sponge_wet.png", "copper_cut_stairs_weathered.png", "terracotta.png", "smithing_table.png", "scaffolding.png",
 		      "polished_basalt.png", "honeycomb_block.png", "leaves_azalea_flowering.png", "emerald_block.png", "Netherite_Hoe.webp", 
-		      "end_stone.png", "slime_block.png", "lily_pad.png", "bamboo_mosaic.png", "brown_concrete.png"];
+		      "end_stone.png", "slime_block.png", "lily_pad.png", "ancient_debris.png", "brown_concrete.png"];
 
 } else if (gameKind === "long"){
 	images = ["dragon_head.webp", "dripstone.png", "disc13.webp", "amethyst_block.png", "deepslate_bricks.png", 
 		      "wood_stripped_acacia.png", "dried_kelp_block.png", "lectern-book.png", "honey_block.png", "brown_shulker.png",
 		      "obsidian_crying.png", "turtle_helmet.png", "sculk_sensor.gif", "lodestone.png", "stairs_mud_brick.png",
-		      "mycelium.png", "bamboo_mosaic.png", "wall_prismarine.gif", "candle_cake_cyan_lit.png", "froglight_ochre.png", 
+		      "mycelium.png", "scaffolding.png", "wall_prismarine.gif", "candle_cake_cyan_lit.png", "froglight_ochre.png", 
 		      "target.png", "magenta_terracotta.png", "leaves_mangrove.png", "beacon.png", "coral_block_horn.png"];
 
 }
